@@ -1,5 +1,10 @@
 # demo-works-app
 
+## Important Notes
+The frontend is hosted on Netlify [here](https://cocky-volhard-b86528.netlify.app/).
+
+The backend is an AWS Lambada function accessed through AWS API Gateway: You can see the code in a gist [here](https://gist.github.com/jtontiwith/7f6e919a559654a0caae597727a98805).
+
 ## Build Setup
 
 ```bash
